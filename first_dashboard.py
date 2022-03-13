@@ -1,5 +1,2 @@
-
-print ('hello world')
-x = 7
-print (x)
-
+message = 'Hello World'
+print(message)
